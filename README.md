@@ -2,8 +2,8 @@
 Basic face recognition system using openCV and Python
 
 #Modules used in thos project
-  cv2
-  numpy
+  cv2,
+  numpy,
   PIL
   
 #Working
